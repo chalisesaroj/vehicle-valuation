@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "form": {
+    "client": "Shree Saral Namuna Saving and Credit Cooperatives Limited",
+    "valuationDate": "2026-10-01",
+    "place": "Pokhara, Kaski",
+    "purposeText": "Loan Disbursement",
+    "reportOrg": "SAANSA ENGINEERING AND TECH SOLUTION PRIVATE LIMITED",
+    "preparedBy": "Er. Saroj Chalise",
+    "preparedByRole": "Mechanical Engineer",
+    "preparedByLicense": "",
+    "regNo": "BA 14 CHA 4271",
+    "makeModel": "Mahindra Scorpio Pickup DC EHD 4WD",
+    "vehType": "Pickup",
+    "fuel": "Diesel",
+    "engineCC": "2179",
+    "transmission": "Manual",
+    "mfgYear": "2016",
+    "regYear": "2016",
+    "odometer": "193974",
+    "chassis": "MA1TY4MNG2A15225",
+    "engineNo": "MMG4A12489",
+    "color": "Silver",
+    "ownershipBillBook": "Registered in the name of the owner as per the vehicle registration book",
+    "ageOverride": "",
+    "priceSource": "current",
+    "sourceName": "Dealer quotation for equivalent new model",
+    "sourceDate": "2026-09-01",
+    "sourceRemarks": "Price of new Mahindra Scorpio pickup DC EHD 4WD",
+    "priceCurrent": "5485000",
+    "priceHistorical": "0",
+    "priceMarket": "0",
+    "priceManual": "0",
+    "depMethod": "diminishing",
+    "depRate": "20",
+    "usefulLife": "10",
+    "salvage": "0",
+    "floor": "0",
+    "userRate": "20",
+    "userFloor": "0",
+    "userLife": "10",
+    "userStart": "",
+    "condMode": "percent",
+    "repairDeduction": "full",
+    "mileageMode": "rate",
+    "mileageActual": "193974",
+    "mileageBenchmark": "200000",
+    "mileageRate": "2",
+    "mileageDirectPct": "0",
+    "accidentMode": "severity",
+    "accidentSeverity": "none",
+    "accidentPct": "0",
+    "accidentRepairEstimate": "0",
+    "accidentImpactPct": "100",
+    "accidentNote": "No accident history reported",
+    "adoptedValue": "",
+    "basis": "",
+    "remarks": "",
+    "limitations": ""
+  },
+  "state": {
+    "condition": {
+      "engine": {
+        "rating": "4",
+        "adj": 1,
+        "remarks": "Good condition"
+      },
+      "trans": {
+        "rating": "4",
+        "adj": 1,
+        "remarks": "Good condition"
+      },
+      "chassis": {
+        "rating": "4",
+        "adj": 1,
+        "remarks": "Good condition"
+      },
+      "body": {
+        "rating": "4",
+        "adj": 1,
+        "remarks": "Good condition"
+      },
+      "susp": {
+        "rating": "4",
+        "adj": 1,
+        "remarks": "Good condition"
+      },
+      "steer": {
+        "rating": "4",
+        "adj": 1,
+        "remarks": "Good condition"
+      },
+      "brake": {
+        "rating": "4",
+        "adj": 1,
+        "remarks": "Good condition"
+      },
+      "tyre": {
+        "rating": "4",
+        "adj": 1,
+        "remarks": "Good condition"
+      },
+      "elec": {
+        "rating": "4",
+        "adj": 1,
+        "remarks": "Good condition"
+      },
+      "interior": {
+        "rating": "4",
+        "adj": 1,
+        "remarks": "Good condition"
+      },
+      "ac": {
+        "rating": "4",
+        "adj": 1,
+        "remarks": "Good condition"
+      },
+      "glass": {
+        "rating": "4",
+        "adj": 1,
+        "remarks": "Good condition"
+      }
+    },
+    "repairs": [],
+    "accessories": [],
+    "market": {
+      "demand": {
+        "direction": "pos",
+        "pct": 10,
+        "justification": "Strong market demand for Mahindra Scorpio pickup in the local market"
+      }
+    },
+    "customRates": {},
+    "photos": []
+  }
+}
